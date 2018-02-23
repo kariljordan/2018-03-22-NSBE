@@ -1,8 +1,8 @@
 ---
 layout: workshop     
-carpentry: "swc"      
+carpentry: "Data Management & Visualization with The Carpentries"      
 venue: "NSBE's 44th Annual Convention"        
-address: "FIXME"      
+address: "David L. Lawrence Convention Center"      
 country: "us"      
 language: "us"      
 latlng: "40.440625,-79.995886"       
@@ -12,7 +12,7 @@ startdate: 2018-03-22
 enddate: 2018-03-22        #
 instructor: ["Sarah M. Brown, PhD", "Kari L. Jordan, PhD"]  
 email: ["kariljordan@carpentries.org"]     
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: http://pad.software-carpentry.org/NSBE44            
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
