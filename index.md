@@ -1,18 +1,17 @@
 ---
-layout: workshop      # DON'T CHANGE THIS.
-carpentry: "swc"      #
-venue: "NSBE's 44th Annual Convention"        # 
-address: "FIXME"      # 
-country: "us"      # 
-language: "us"     #  
-latlng: ""40.440625,-79.995886""       # 
-humandate: ""March 22, 2018"j"    # 
-humantime: "4:10 pm - 5:30 pm"    # 
-startdate: 2018-03-22      # 
-enddate: 2018-03-22        # 
-instructor: ["Sarah M. Brown, PhD", "Kari L. Jordan, PhD"] # 
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["kariljordan@carpentries.org"]    # 
+layout: workshop     
+carpentry: "swc"      
+venue: "NSBE's 44th Annual Convention"        
+address: "FIXME"      
+country: "us"      
+language: "us"      
+latlng: "40.440625,-79.995886"       
+humandate: "March 22, 2018"    
+humantime: "4:10 pm - 5:30 pm"     
+startdate: 2018-03-22      
+enddate: 2018-03-22        #
+instructor: ["Sarah M. Brown, PhD", "Kari L. Jordan, PhD"]  
+email: ["kariljordan@carpentries.org"]     
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
