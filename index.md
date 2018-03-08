@@ -530,12 +530,13 @@ This workshop is only open to registered attendees of NSBE's 44th Annual Convent
       </ol>
     </div>
   </div>
-{% comment %}
+
   <p>
   Once you are done installing the software listed above,
   please go to <a href="setup/index.html">this page</a>,
   which has instructions on how to test that everything was installed correctly.
   </p>
+{% comment %}
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
