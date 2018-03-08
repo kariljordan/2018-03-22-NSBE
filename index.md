@@ -291,6 +291,10 @@ This workshop is only open to registered attendees of NSBE's 44th Annual Convent
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+<p>
+  Post on the <a href="{{page.collaborative_notes}}">here</a> if you have any
+  problems not addressed in the above reference.
+</p>
 
 <div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
   <h3>The Bash Shell</h3>
@@ -382,6 +386,7 @@ This workshop is only open to registered attendees of NSBE's 44th Annual Convent
   </div>
 </div> {% comment %} End of 'shell' section. {% endcomment %}
 
+{% comment %}
 <div id="git"> {% comment %} Start of 'Git' section. GitHub browser compatability
            is given at https://help.github.com/articles/supported-browsers/{% endcomment %}
   <h3>Git</h3>
@@ -436,7 +441,7 @@ This workshop is only open to registered attendees of NSBE's 44th Annual Convent
       </p>
     </div>
   </div>
-</div> {% comment %} End of 'Git' section. {% endcomment %}
+</div>  End of 'Git' section. {% endcomment %}
 
 
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
@@ -449,9 +454,11 @@ This workshop is only open to registered attendees of NSBE's 44th Annual Convent
     <a href="http://python.org">Python</a> is a popular language for
     research computing, and great for general-purpose programming as
     well.  Installing all of its research packages individually can be
-    a bit difficult, so we recommend
+    a bit difficult, so we strongly recommend
     <a href="https://www.anaconda.com/distribution/">Anaconda</a>,
-    an all-in-one installer.
+    an all-in-one installer. Note: the convention center will not have
+    free high quality wifi available, so downloading any necessary packages on
+    site in Pittsburgh may not work.
   </p>
 
     <p>
