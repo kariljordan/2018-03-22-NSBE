@@ -75,6 +75,8 @@ eventbrite:  43957830053         # optional: alphanumeric key for Eventbrite reg
   {% include lc/who.html %}
 {% endif %}
 
+This workshop is only open to registered attendees of NSBE's 44th Annual Convention.
+
 {% comment %}
   LOCATION
 
