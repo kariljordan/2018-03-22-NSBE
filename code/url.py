@@ -1,1 +1,0 @@
-url = 'https://raw.githubusercontent.com/kariljordan/2018-03-22-NSBE/gh-pages/code/'
