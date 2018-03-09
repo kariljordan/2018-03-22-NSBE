@@ -2,7 +2,7 @@
 layout: workshop     
 carpentry: "dc"      
 venue: "Data Management & Visualization with The Carpentries: NSBE's 44th Annual Convention"        
-address: "David L. Lawrence Convention Center"      
+address: "David L. Lawrence Convention Center, Room 326"      
 country: "us"      
 language: "en"      
 latlng: "40.440625,-79.995886"       
