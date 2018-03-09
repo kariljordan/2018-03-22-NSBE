@@ -297,7 +297,7 @@ This workshop is only open to registered attendees of NSBE's 44th Annual Convent
 </p>
 
 <p>
-We will use some data files and code excerpts for the data in this lesson.  Download these files to your computer by clicking <a href="https://github.com/brownsarahm/python-ecology-files/archive/master.zip">this link</a>
+We will use some data files and code excerpts for the data in this lesson.  Download these files to your computer by clicking <a href="https://github.com/brownsarahm/python-ecology-files/archive/nsbe.zip">this link</a>
 , which will give you everything in a single compressed file.  You'll need to unzip this file after downloading it.
 </p>
 
