@@ -297,7 +297,7 @@ This workshop is only open to registered attendees of NSBE's 44th Annual Convent
 </p>
 
 <p>
-We will use some data files and code excerpts for the data in this lesson.  Download these files to your computer by clicking <a href="https://github.com/brownsarahm/python-ecology-files/archive/nsbe.zip">this link</a>
+We will use some data files and code excerpts for the data in this lesson.  Download these files to your computer by clicking <a href="files/python-ecology-files-nsbe.zip">this link</a>
 , which will give you everything in a single compressed file.  You'll need to unzip this file after downloading it.
 </p>
 
@@ -315,6 +315,7 @@ We will use some data files and code excerpts for the data in this lesson.  Down
       <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>
       <ol>
         <li>Download the Git for Windows <a href="https://git-for-windows.github.io/">installer</a>.</li>
+
         <li>Run the installer and follow the steps bellow:
           <ol>
             {% comment %} Git 2.8.2 Setup {% endcomment %}
@@ -430,8 +431,11 @@ We will use some data files and code excerpts for the data in this lesson.  Down
       <h4 id="python-windows">Windows</h4>
       <a href="https://www.youtube.com/watch?v=xxQ0mzZ8UvA">Video Tutorial</a>
       <ol>
-        <li>Open <a href="https://www.anaconda.com/download/#windows">https://www.anaconda.com/download/#windows</a> with your web browser.</li>
-        <li>Download the Python 3 installer for Windows.</li>
+        <li>Download the Python 3 installer for Windows.
+        <ol>
+        <li><a href="/files/Anaconda3-5.1.0-Windows-x86_64.exe">64bit</a></li>
+        <li><a href="/files/Anaconda3-5.1.0-Windows-x86.exe">32bit</a></li>
+        </ol></li>
         <li>Install Python 3 using all of the defaults for installation <em>except</em> make sure to check <strong>Make Anaconda the default Python</strong>.</li>
       </ol>
     </div>
@@ -439,16 +443,14 @@ We will use some data files and code excerpts for the data in this lesson.  Down
       <h4 id="python-macosx">macOS</h4>
       <a href="https://www.youtube.com/watch?v=TcSAln46u9U">Video Tutorial</a>
       <ol>
-        <li>Open <a href="https://www.anaconda.com/download/#macos">https://www.anaconda.com/download/#macos</a> with your web browser.</li>
-        <li>Download the Python 3 installer for OS X.</li>
+        <li>Download the Python 3 <a href="/files/Anaconda3-5.1.0-MacOSX-x86_64.pkg">Mac Graphial Installer</a> for OS X.</li>
         <li>Install Python 3 using all of the defaults for installation.</li>
       </ol>
     </div>
     <div class="col-md-4">
       <h4 id="python-linux">Linux</h4>
       <ol>
-        <li>Open <a href="https://www.anaconda.com/download/#linux">https://www.anaconda.com/download/#linux</a> with your web browser.</li>
-        <li>Download the Python 3 installer for Linux.<br>
+        <li>Download the Python 3 <a href="/files/Anaconda3-5.1.0-Linux-x86_64.sh">installer</a> for Linux.<br>
           (The installation requires using the shell. If you aren't
            comfortable doing the installation yourself
            stop here and request help at the workshop.)
