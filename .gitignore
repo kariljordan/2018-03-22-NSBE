@@ -5,3 +5,9 @@
 .sass-cache
 __pycache__
 _site
+
+/files/Anaconda3-5.1.0-Windows-x86_64.exe
+/files/Anaconda3-5.1.0-Windows-x86.exe
+/files/Anaconda3-5.1.0-MacOSX-x86_64.pkg
+/files/Anaconda3-5.1.0-Linux-x86_64.sh
+/files/python-ecology-files-nsbe.zip
