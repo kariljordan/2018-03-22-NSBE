@@ -297,7 +297,7 @@ This workshop is only open to registered attendees of NSBE's 44th Annual Convent
 </p>
 
 <p>
-We will use some data files and code excerpts for the data in this lesson.  Download these files to your computer by clicking <a href="files/python-ecology-files-nsbe.zip">this link</a>
+We will use some data files and code excerpts for the data in this lesson.  Download these files to your computer by clicking <a href="./files/python-ecology-files-nsbe.zip">this link</a>
 , which will give you everything in a single compressed file.  You'll need to unzip this file after downloading it.
 </p>
 
@@ -433,8 +433,8 @@ We will use some data files and code excerpts for the data in this lesson.  Down
       <ol>
         <li>Download the Python 3 installer for Windows.
         <ol>
-        <li><a href="/files/Anaconda3-5.1.0-Windows-x86_64.exe">64bit</a></li>
-        <li><a href="/files/Anaconda3-5.1.0-Windows-x86.exe">32bit</a></li>
+        <li><a href="./files/Anaconda3-5.1.0-Windows-x86_64.exe">64bit</a></li>
+        <li><a href="./files/Anaconda3-5.1.0-Windows-x86.exe">32bit</a></li>
         </ol></li>
         <li>Install Python 3 using all of the defaults for installation <em>except</em> make sure to check <strong>Make Anaconda the default Python</strong>.</li>
       </ol>
@@ -443,14 +443,14 @@ We will use some data files and code excerpts for the data in this lesson.  Down
       <h4 id="python-macosx">macOS</h4>
       <a href="https://www.youtube.com/watch?v=TcSAln46u9U">Video Tutorial</a>
       <ol>
-        <li>Download the Python 3 <a href="/files/Anaconda3-5.1.0-MacOSX-x86_64.pkg">Mac Graphial Installer</a> for OS X.</li>
+        <li>Download the Python 3 <a href="./files/Anaconda3-5.1.0-MacOSX-x86_64.pkg">Mac Graphial Installer</a> for OS X.</li>
         <li>Install Python 3 using all of the defaults for installation.</li>
       </ol>
     </div>
     <div class="col-md-4">
       <h4 id="python-linux">Linux</h4>
       <ol>
-        <li>Download the Python 3 <a href="/files/Anaconda3-5.1.0-Linux-x86_64.sh">installer</a> for Linux.<br>
+        <li>Download the Python 3 <a href="./files/Anaconda3-5.1.0-Linux-x86_64.sh">installer</a> for Linux.<br>
           (The installation requires using the shell. If you aren't
            comfortable doing the installation yourself
            stop here and request help at the workshop.)
