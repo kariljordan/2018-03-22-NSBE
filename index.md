@@ -296,10 +296,12 @@ This workshop is only open to registered attendees of NSBE's 44th Annual Convent
   problems not addressed in the above reference.
 </p>
 
+<div id="files"> {% comment %} Start of 'downloads' section. {% endcomment %}
+  <h3>File Downloads</h3>
 <p>
-We will use some data files and code excerpts for the data in this lesson.  Download these files to your computer by clicking <a href="https://github.com/brownsarahm/python-ecology-files/archive/nsbe.zip">this link</a>
-, which will give you everything in a single compressed file.  You'll need to unzip this file after downloading it.
+We will use some data files and code excerpts for the data in this lesson.  <a href="https://github.com/brownsarahm/python-ecology-files/archive/nsbe.zip">Download these resources as a zip file, </a> unzip the file, and keep the unzipped directory somewhre you can finds it.
 </p>
+</div>
 
 <div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
   <h3>The Bash Shell</h3>
